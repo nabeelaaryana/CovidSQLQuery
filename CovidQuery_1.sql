@@ -1,3 +1,10 @@
+/*
+Covid 19 Data Exploration from 2020 - 2023
+
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
+
 -- Select * 
 -- From [dbo].[CovidDeaths]
 -- Where continent is not null
